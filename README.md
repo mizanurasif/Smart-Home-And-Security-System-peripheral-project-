@@ -20,5 +20,6 @@
 
   > Buzzer
   
-  #Photos
+  ## Photos
+  
   https://github.com/mizanurasif/peripheral-project/wiki
