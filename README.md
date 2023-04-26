@@ -19,3 +19,6 @@
   > Servo motor
 
   > Buzzer
+  
+  #Photos
+  https://github.com/mizanurasif/peripheral-project/wiki
